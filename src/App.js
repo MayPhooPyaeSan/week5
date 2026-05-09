@@ -138,7 +138,7 @@ export default function App() {
           open-sourced on GitHub
         </a>{" "}
         and{" "}
-        <a href="https://YOUR-SITE.netlify.app" target="_blank" rel="noreferrer">
+        <a href="https://charming-clafoutis-a01b7c.netlify.app/" target="_blank" rel="noreferrer">
           hosted on Netlify
         </a>
       </p>
